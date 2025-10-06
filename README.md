@@ -29,6 +29,8 @@ The dataset employed for training the model was sourced from:
     - Import training & test sets from Main notebook
     - Manual configuration
     - Evaluation of the model against Keras
+ 
+---
 
 ## 🧰 Technologies and Tools
 - Python
