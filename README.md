@@ -24,6 +24,12 @@ The dataset employed for training the model was sourced from:
 
 ---
 
+## 🧩 Project Appendix
+- Manual training with TensorFlow
+    - Import training & test sets from Main notebook
+    - Manual configuration
+    - Evaluation of the model against Keras
+
 ## 🧰 Technologies and Tools
 - Python
 - pandas
@@ -45,5 +51,8 @@ You can explore the full analysis, visualizations, and conclusions in the PDF do
 This version was exported directly from the original Jupyter Notebook using LaTeX.
 
 You may also browse the `/img` folder to preview the key plots separately.
+
+In the [project appendix](https://) you will find a version of the model using manual training
+just to demonstreate how it can be done purely TensorFlow.
 
 To explore the original datasets, refer to the links mentioned in the PDF report.
